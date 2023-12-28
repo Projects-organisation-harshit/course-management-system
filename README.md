@@ -100,7 +100,7 @@
 
 ### Enroll in a course
 
-- **Endpoint**: `/auth/register`
+- **Endpoint**: `/enroll/:courseId`
 - **Method**: `POST`
 - **Description**: Enroll in a course by sending courseID in params.
 
